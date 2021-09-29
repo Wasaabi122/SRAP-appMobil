@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901499475968",
+    "project_id": "srap-f9f45",
+    "storage_bucket": "srap-f9f45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901499475968:android:6d4af1a867d70cb28ea0e5",
+        "android_client_info": {
+          "package_name": "com.example.srapv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901499475968-nuigtv15ud6iotf5lqfn13hsbqpvqkkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbYVWUDo35C3MXCIltzSWsKrc4CbEW81A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901499475968-nuigtv15ud6iotf5lqfn13hsbqpvqkkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
